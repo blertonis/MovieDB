@@ -1,5 +1,6 @@
 {
-  "name": "moviedbapp",
+  "name": "",
+   "homepage": "https://blertonis.github.io/MovieDB",
   "version": "0.1.0",
   "private": false,
   "dependencies": {

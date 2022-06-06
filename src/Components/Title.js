@@ -4,7 +4,7 @@ const Title = () => {
 
     return(
         <div className="col">
-            <Link to="/"><h3>Movie<span id="db">DB</span></h3></Link>
+            <Link to="/"><h3><span id="db">Movie</span>DB</h3></Link>
            
         </div>
     );

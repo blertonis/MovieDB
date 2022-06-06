@@ -18,7 +18,7 @@ const MovieDetails = ({movies}) => {
            
 
           <div className="wrapper-mob mb-4">
-          <h2 className="text-center mt-4">{movieDetails && movieDetails.Title}</h2>
+          <h2 className="text-center mt-4 mb-4">{movieDetails && movieDetails.Title}</h2>
 
              <Container>
                  <Row>

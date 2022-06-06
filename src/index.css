@@ -20,6 +20,12 @@ h3{
 
 }
 
+.header #search:focus{
+  background-color:#ffffff;
+  color:black;
+  transition-property: all;
+  transition-duration: 0.7s;
+}
 img{
   width:200px;
 }
@@ -40,6 +46,7 @@ h4{color:white !important;font-weight:normal}
 .swiper-slide{
   width:200px !important;
   margin-right:15px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 
 }
 .swiper-slide{
@@ -68,14 +75,15 @@ table{
   color:white;
   margin:0 auto;
   width:100%;
-  border:1px solid #656464;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
   padding:20px;
 }
 
 table tr{
   border:1px solid #656464;
 }
-tr:nth-child(even) {background-color: black;}
+tr:nth-child(even) {background-color: #333333;}
 
 table td{
   padding:5px;
@@ -118,7 +126,7 @@ table td{
 
 #db{
   border-radius:5px;
-  background-color:#333333;
+  color:#E50914;
 }
 
 .awr{

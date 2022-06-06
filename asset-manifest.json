@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.781aecc8.css",
-    "main.js": "/static/js/main.f867803e.js",
-    "static/js/787.3505a6c5.chunk.js": "/static/js/787.3505a6c5.chunk.js",
-    "index.html": "/index.html",
-    "main.781aecc8.css.map": "/static/css/main.781aecc8.css.map",
-    "main.f867803e.js.map": "/static/js/main.f867803e.js.map",
-    "787.3505a6c5.chunk.js.map": "/static/js/787.3505a6c5.chunk.js.map"
+    "main.css": "/MovieDB/static/css/main.dae04033.css",
+    "main.js": "/MovieDB/static/js/main.f8ae38f0.js",
+    "static/js/787.db516ee7.chunk.js": "/MovieDB/static/js/787.db516ee7.chunk.js",
+    "index.html": "/MovieDB/index.html",
+    "main.dae04033.css.map": "/MovieDB/static/css/main.dae04033.css.map",
+    "main.f8ae38f0.js.map": "/MovieDB/static/js/main.f8ae38f0.js.map",
+    "787.db516ee7.chunk.js.map": "/MovieDB/static/js/787.db516ee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.781aecc8.css",
-    "static/js/main.f867803e.js"
+    "static/css/main.dae04033.css",
+    "static/js/main.f8ae38f0.js"
   ]
 }

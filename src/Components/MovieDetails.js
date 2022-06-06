@@ -22,14 +22,14 @@ const MovieDetails = ({movies}) => {
 
              <Container>
                  <Row>
-                    <Col md="6" sm="6"  xs="6" className="aww text-right">
+                    <Col md="6" sm="12"  xs="12" className="aww text-center">
                     {movieDetails && (
                         <img src={movieDetails.Poster}></img>
                     )}
-                   
+                    <br></br>  <br></br>
 
                     </Col>
-                    <Col md="6" sm="6" xs="6" className=" pull-left">
+                    <Col md="6" sm="12" xs="12" className=" pull-left">
                     <table>
                 <tr>
                     <td>Year</td>

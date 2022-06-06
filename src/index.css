@@ -17,7 +17,12 @@ h3{
   color:#eee;
   border-radius:2px;
   padding:5px;
+  max-width:140px;
 
+}
+
+#fga{
+  font-size:22px !important;
 }
 
 .header #search:focus{

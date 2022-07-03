@@ -49,8 +49,11 @@ const DisplayMovies = ({list,movies}) => {
                <Col className="">
                        <img src={f.Poster}></img>
                    </Col>
+
+                   
                    <div className="movieTitle">
                        <span>{f.Title}</span>
+                       <p>A a:{f.Released}</p>
                    </div>
                    </Link>
                </SwiperSlide>   

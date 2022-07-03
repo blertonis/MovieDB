@@ -1,5 +1,5 @@
 body{
-  background-color:#232323 !important;
+  background-color:#191919 !important;
 }
 
 h3{
@@ -7,7 +7,7 @@ h3{
 }
 
 .header{
-  background-color:black !important;
+  background-color:#2d2d2d !important;
 }
 
 .header #search{
@@ -22,7 +22,7 @@ h3{
 }
 
 #fga{
-  font-size:22px !important;
+  font-size:20px !important;
 }
 
 .header #search:focus{
@@ -86,9 +86,9 @@ table{
 }
 
 table tr{
-  border:1px solid #656464;
+  border:1px solid #3c3c3c;
 }
-tr:nth-child(even) {background-color: #333333;}
+tr:nth-child(even) {background-color: #252527;}
 
 table td{
   padding:5px;
@@ -106,7 +106,7 @@ table td{
 
 .movieTitle{
   width:100%;
-  background-color:#333333;
+  background-color:#252527;
   margin-left:14px;
   padding:4px;
 }

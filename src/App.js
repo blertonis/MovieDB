@@ -6,7 +6,7 @@ import DisplayMovies from './Components/DisplayMovies';
 
 import {BrowserRouter as Router, Route,Switch,Link} from 'react-router-dom';
 import MovieDetails from './Components/MovieDetails';
-import useFetch from './useFetch';
+import useFetch from './hooks/useFetch';
 import Footer from './Components/Footer'
 
 

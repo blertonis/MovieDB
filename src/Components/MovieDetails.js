@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import {Container,Row,Col} from 'react-bootstrap';
 import {useParams} from 'react-router-dom';
-import useFetch from '../useFetch';
+import useFetch from '../hooks/useFetch';
 import DisplayMovies from './DisplayMovies';
 
 
@@ -26,6 +26,8 @@ const MovieDetails = ({movies}) => {
                     {movieDetails && (
                         <img src={movieDetails.Poster}></img>
                     )}
+
+                    {movieDetails && movieDetails.Ratings.Value}
                     <br></br>  <br></br>
 
                     </Col>

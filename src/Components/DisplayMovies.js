@@ -53,7 +53,7 @@ const DisplayMovies = ({list,movies}) => {
                    
                    <div className="movieTitle">
                        <span>{f.Title}</span>
-                       <p>A a:{f.Released}</p>
+                
                    </div>
                    </Link>
                </SwiperSlide>   

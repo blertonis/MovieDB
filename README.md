@@ -1,3 +1,3 @@
-SmartNotes React App
+MovieDB React App
 
-A a react app which allows you to add,search and delete notes
+A a react app which allows you to search movies and get information about them.
